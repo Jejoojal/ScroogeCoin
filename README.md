@@ -1,1 +1,2 @@
 # ScroogeCoin
+## Running the solution
